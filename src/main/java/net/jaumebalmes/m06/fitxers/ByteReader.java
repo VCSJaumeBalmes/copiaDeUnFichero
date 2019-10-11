@@ -1,3 +1,5 @@
+package net.jaumebalmes.m06.fitxers;
+
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
